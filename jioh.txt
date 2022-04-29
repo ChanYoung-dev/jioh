@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-jioh
-Join!!
-=======
 jiohA
->>>>>>> 249964745dcfaf2b90e43143806278b5329ac2dc
+Join!!
+
+
+
